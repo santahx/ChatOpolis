@@ -1,5 +1,5 @@
-    Chatopolis - a chat for planing and constructing tasks and to do lists.
-
+    Chatopolis - a task-groups maker that will creating and completing to do's and task.
+    
 ChatOpolis build on top of one of the most Cutest chat apps ever created.
 
 - Original Code is only slightly touched.
