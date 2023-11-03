@@ -1,3 +1,31 @@
+    Chatopolis - a chat for planing and constructing tasks and to do lists.
+
+ChatOpolis build on top of one of the most Cutest chat apps ever created.
+
+- Original Code is only slightly touched.
+- most Feature of the app will be used again.
+- some features may not be included.
+- https://fluffychat.im is the source Project of this chat.
+- all code will be public.
+
+
+    original readme.md
+Copyright (C) 2020  Christian Pauly
+
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU Affero General Public License as published
+    by the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
+
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU Affero General Public License for more details.
+
+    You should have received a copy of the GNU Affero General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.   
+
+
 ![Screenshot](https://github.com/krille-chan/fluffychat/blob/main/assets/banner_transparent.png?raw=true)
 
 [FluffyChat](https://fluffychat.im) is an open source, nonprofit and cute [[matrix](https://matrix.org)] client written in [Flutter](https://flutter.dev). The goal of the app is to create an easy to use instant messenger which is open source and accessible for everyone.
@@ -15,6 +43,7 @@
 ### Screenshots:
 
 ![Screenshot](https://github.com/krille-chan/fluffychat/blob/main/docs/screenshots/product.jpeg?raw=true)
+
 
 # Features
 
