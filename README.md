@@ -10,6 +10,8 @@ ChatOpolis build on top of one of the most Cutest chat apps ever created.
 
 
     original readme.md
+
+  
 Copyright (C) 2020  Christian Pauly
 
     This program is free software: you can redistribute it and/or modify
@@ -24,6 +26,9 @@ Copyright (C) 2020  Christian Pauly
 
     You should have received a copy of the GNU Affero General Public License
     along with this program.  If not, see <http://www.gnu.org/licenses/>.   
+
+
+
 
 
 ![Screenshot](https://github.com/krille-chan/fluffychat/blob/main/assets/banner_transparent.png?raw=true)
