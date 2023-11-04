@@ -2,6 +2,8 @@
     
 ChatOpolis build on top of one of the most Cutest chat apps ever created.
 
+re-build and Designes from SantaHX
+
 - Original Code is only slightly touched.
 - most Feature of the app will be used again.
 - some features may not be included.

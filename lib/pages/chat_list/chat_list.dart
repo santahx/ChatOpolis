@@ -78,6 +78,7 @@ class ChatListController extends State<ChatList>
 
   StreamSubscription? _intentUriStreamSubscription;
 
+
   bool get displayNavigationBar =>
       !FluffyThemes.isColumnMode(context) &&
       (spaces.isNotEmpty || AppConfig.separateChatTypes);
